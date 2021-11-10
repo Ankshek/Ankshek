@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankita Shrivastava
 - 👀 I’m interested in Data!!!
-- 🌱 I’m currently learning Analysis
+- 🌱 I’m learning Analysis.
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me ...email me
 
